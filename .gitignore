@@ -1,0 +1,10 @@
+#Gradle files
+.gradle
+
+#IntelliJ IDEA files
+mein-data-api.iml
+mein-data-api.ipr
+mein-data-api.iws
+
+#Build files
+build
